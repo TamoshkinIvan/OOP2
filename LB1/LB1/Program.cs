@@ -12,7 +12,7 @@ namespace LB1
         /// <summary>
         /// Entry point of application
         /// </summary>
-        /// <param name="args"></param>
+        /// <param name="args">123</param>
         private static void Main(string[] args)
         {
             System.Console.OutputEncoding = System.Text.Encoding.Unicode;
